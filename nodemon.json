@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "xlLEpkJFaRPh8Nlq",
+        "DATABASE_NAME": "node-restful-api-learning",
+        "JWT_KEY": "secret"
+    }
+}
