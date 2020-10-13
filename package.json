@@ -16,8 +16,8 @@
     "restful",
     "api"
   ],
-  "author": "Dinh Phan Hai Trieu",
-  "license": "ISC",
+  "author": "haitrieu-yare",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/haitrieu-yare/node-rest-shop/issues"
   },
